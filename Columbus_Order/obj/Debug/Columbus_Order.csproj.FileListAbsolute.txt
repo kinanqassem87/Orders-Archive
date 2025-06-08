@@ -1,0 +1,718 @@
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\bin\Debug\Columbus_Order.exe
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.Cache
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.exe
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.pdb
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.csprojResolveAssemblyReference.cache
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\bin\Debug\Columbus_Order.exe
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\bin\Debug\Columbus_Order.pdb
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.csprojResolveAssemblyReference.cache
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.Cache
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.exe
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.pdb
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\bin\Debug\Columbus_Order.exe
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.csprojResolveAssemblyReference.cache
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.Cache
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.exe
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.pdb
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\bin\Debug\Columbus_Order.exe
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\bin\Debug\Columbus_Order.pdb
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.csprojResolveAssemblyReference.cache
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.Cache
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.exe
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.pdb
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\bin\Debug\Columbus_Order.exe
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.csprojResolveAssemblyReference.cache
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.Cache
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.exe
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.pdb
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderCPEManag.resources
+D:\New folder\new Update\Columbus_OrderWithArchive\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ManagDept.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\bin\Debug\Columbus_Order.exe
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.csprojResolveAssemblyReference.cache
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ManagDept.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderCPEManag.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.Cache
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.exe
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.pdb
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\bin\Debug\Columbus_Order.exe
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\bin\Debug\Columbus_Order.pdb
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.csprojResolveAssemblyReference.cache
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ManagDept.resources
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderCPEManag.resources
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.Cache
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.exe
+E:\Kinan For Columbus\Columbus Document\Program C#\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.pdb
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\bin\Debug\Columbus_Order.exe
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.csprojResolveAssemblyReference.cache
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ManagDept.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderCPEManag.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.Cache
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.exe
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew28-1-2019\Columbus_Order\obj\Debug\Columbus_Order.pdb
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.csprojResolveAssemblyReference.cache
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ManagDept.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderCPEManag.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.Cache
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.exe
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.pdb
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\bin\Debug\Columbus_Order.exe
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\bin\Debug\Columbus_Order.exe
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.csprojResolveAssemblyReference.cache
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ManagDept.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderCPEManag.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.Cache
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.exe
+D:\New-folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_OrderWithArchiveNew-24-10-2020\Columbus_Order\obj\Debug\Columbus_Order.pdb
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\bin\Debug\Columbus_Order.exe
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\bin\Debug\Columbus_Order.pdb
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.csprojResolveAssemblyReference.cache
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ManagDept.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderCPEManag.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.Cache
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.exe
+C:\Users\kinan.COLUMBUS\Desktop\Columbus_OrderWithArchiveNew-28-11-2020\Columbus_Order\obj\Debug\Columbus_Order.pdb
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\bin\Debug\Columbus_Order.exe
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.csprojResolveAssemblyReference.cache
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ManagDept.resources
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderCPEManag.resources
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.Cache
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.exe
+D:\New-data\Code\C# Program\Columbus_OrderWithArchiveNew-07-12-2020\Columbus_Order\obj\Debug\Columbus_Order.pdb
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\bin\Debug\Columbus_Order.exe
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.csprojResolveAssemblyReference.cache
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ManagDept.resources
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderCPEManag.resources
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.Cache
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.exe
+D:\New-data\Code\Columbus_Order 19-08-2022\Columbus_Order\obj\Debug\Columbus_Order.pdb
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\bin\Debug\Columbus_Order.exe
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.csprojResolveAssemblyReference.cache
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ManagDept.resources
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderCPEManag.resources
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.Cache
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.exe
+D:\New-data\Code\C# Program\Columbus_Order 23-08-2022\Columbus_Order\obj\Debug\Columbus_Order.pdb
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\bin\Debug\Columbus_Order.exe
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.csprojResolveAssemblyReference.cache
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ManagDept.resources
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderCPEManag.resources
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.Cache
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.exe
+D:\New-data\Code\C# Program\Columbus_Order 01-11-2022 - V2\Columbus_Order\obj\Debug\Columbus_Order.pdb
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\bin\Debug\Columbus_Order.exe
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ManagDept.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderCPEManag.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.Cache
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.exe
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.pdb
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Category.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Collection.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_CatManagement.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderDone.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ProductionForm.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ViewAllOrdersNew.resources
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\bin\Debug\AdvancedDataGridView.dll
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\bin\Debug\AdvancedDataGridView.xml
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.csprojAssemblyReference.cache
+D:\New-data\Code\C# Program\Columbus_Order 27-02-2024 - V2-1\Columbus_Order\obj\Debug\Columbus_Order.csproj.CopyComplete
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\bin\Debug\Columbus_Order.exe
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\bin\Debug\AdvancedDataGridView.dll
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\bin\Debug\AdvancedDataGridView.xml
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.csprojAssemblyReference.cache
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ProductionForm.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Category.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_CatManagement.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Collection.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ManagDept.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderCPEManag.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderDone.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ViewAllOrdersNew.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.cache
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.csproj.CopyComplete
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.exe
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-2\Columbus_Order\obj\Debug\Columbus_Order.pdb
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\bin\Debug\Columbus_Order.exe
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\bin\Debug\AdvancedDataGridView.dll
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\bin\Debug\AdvancedDataGridView.xml
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.csprojAssemblyReference.cache
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ProductionForm.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Category.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_CatManagement.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Collection.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ManagDept.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderCPEManag.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderDone.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ViewAllOrdersNew.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.cache
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.csproj.CopyComplete
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.exe
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.pdb
+D:\New-data\Code\C# Program\Columbus_Order 16-4-2024 - V2-3\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Update_Col_Cat.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\bin\Debug\Columbus_Order.exe
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\bin\Debug\AdvancedDataGridView.dll
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\bin\Debug\AdvancedDataGridView.xml
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.csprojAssemblyReference.cache
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ProductionForm.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Category.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_CatManagement.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Collection.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ManagDept.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderCPEManag.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderDone.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Update_Col_Cat.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ViewAllOrdersNew.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.cache
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.csproj.CopyComplete
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.exe
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.pdb
+D:\New-data\Code\C# Program\Columbus_Order 17-4-2024 - V2-4\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Update_Order.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\bin\Debug\Columbus_Order.exe
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\bin\Debug\AdvancedDataGridView.dll
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\bin\Debug\AdvancedDataGridView.xml
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.csprojAssemblyReference.cache
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ProductionForm.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Category.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_CatManagement.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Collection.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ManagDept.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderCPEManag.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderDone.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Update_Col_Cat.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Update_Order.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ViewAllOrdersNew.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.cache
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.csproj.CopyComplete
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.exe
+D:\New-data\Code\C# Program\Columbus_Order 11-5-2024 - V2-5\Columbus_Order\obj\Debug\Columbus_Order.pdb
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\bin\Debug\Columbus_Order.exe
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\bin\Debug\AdvancedDataGridView.dll
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\bin\Debug\AdvancedDataGridView.xml
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.csprojAssemblyReference.cache
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ProductionForm.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Category.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_CatManagement.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Collection.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ManagDept.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderCPEManag.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderDone.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Update_Col_Cat.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Update_Order.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ViewAllOrdersNew.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.cache
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.csproj.CopyComplete
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.exe
+D:\New-data\Code\C# Program\Columbus_Order 14-5-2024 - V2-6\Columbus_Order\obj\Debug\Columbus_Order.pdb
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\bin\Debug\Columbus_Order.exe
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\bin\Debug\AdvancedDataGridView.dll
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\bin\Debug\AdvancedDataGridView.xml
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.csprojAssemblyReference.cache
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ProductionForm.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Category.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_CatManagement.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Collection.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ManagDept.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderCPEManag.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderDone.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Update_Col_Cat.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Update_Order.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ViewAllOrdersNew.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.cache
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.csproj.CopyComplete
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.exe
+D:\New-data\Code\C# Program\Columbus_Order 22-08-2024 - V2-7\Columbus_Order\obj\Debug\Columbus_Order.pdb
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\bin\Debug\Columbus_Order.exe
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\bin\Debug\AdvancedDataGridView.dll
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\bin\Debug\AdvancedDataGridView.xml
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.csprojAssemblyReference.cache
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ProductionForm.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Category.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_CatManagement.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Collection.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ManagDept.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderCPEManag.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderDone.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Update_Col_Cat.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Update_Order.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ViewAllOrdersNew.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.cache
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.csproj.CopyComplete
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.exe
+D:\00 - All Of C#\C# Program\Orders and Shipping\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.pdb
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\bin\Debug\Columbus_Order.exe
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\bin\Debug\AdvancedDataGridView.dll
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\bin\Debug\AdvancedDataGridView.xml
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.csprojAssemblyReference.cache
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ProductionForm.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_AddNewDoc.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Category.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_CatManagement.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Collection.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ConfirmDept.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DisplayAllDoc.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_DocManagement.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgDoc.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ManagDept.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_MessageConfirm.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderCPEManag.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderDone.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderViewCPE.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Update_Col_Cat.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_Update_Order.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ViewAllOrdersNew.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.cache
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.csproj.CopyComplete
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.exe
+D:\00 - All Of C#\C# Program\Orders and Shipping\On My PC\Columbus_Order 10-09-2024 - V2-8\Columbus_Order\obj\Debug\Columbus_Order.pdb

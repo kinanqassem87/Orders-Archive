@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{929ACA94-3031-44A3-84AE-BB3FF2DC4BA2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Columbus_Order</RootNamespace>
+    <AssemblyName>Columbus_Order</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>order_custom_hou_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AdvancedDataGridView, Version=0.1.0.10, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ADGV.0.1.0.10\lib\net40\AdvancedDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BL\ClassDocument.cs" />
+    <Compile Include="Columbus_OrderDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Columbus_OrderDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Columbus_OrderDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Columbus_OrderDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\DataAccessLayerA.cs" />
+    <Compile Include="odcNewColumbus_OrderDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>odcNewColumbus_OrderDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PDC_Columbus_OrderDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PDC_Columbus_OrderDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="pdc_Columbus_OrderDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pdc_Columbus_OrderDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm-ProductionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm-ProductionForm.Designer.cs">
+      <DependentUpon>Frm-ProductionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_AddNewDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_AddNewDoc.Designer.cs">
+      <DependentUpon>Frm_AddNewDoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_Category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_Category.Designer.cs">
+      <DependentUpon>Frm_Category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_CatManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_CatManagement.Designer.cs">
+      <DependentUpon>Frm_CatManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_Collection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_Collection.Designer.cs">
+      <DependentUpon>Frm_Collection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_ConfirmDept.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_ConfirmDept.Designer.cs">
+      <DependentUpon>Frm_ConfirmDept.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_DisplayAllDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_DisplayAllDoc.Designer.cs">
+      <DependentUpon>Frm_DisplayAllDoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_DocManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_DocManagement.Designer.cs">
+      <DependentUpon>Frm_DocManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_ImgDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_ImgDoc.Designer.cs">
+      <DependentUpon>Frm_ImgDoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_ImgOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_ImgOrder.Designer.cs">
+      <DependentUpon>Frm_ImgOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_ImgZoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_ImgZoom.Designer.cs">
+      <DependentUpon>Frm_ImgZoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_Main.Designer.cs">
+      <DependentUpon>Frm_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_ManagDept.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_ManagDept.Designer.cs">
+      <DependentUpon>Frm_ManagDept.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_MessageConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_MessageConfirm.Designer.cs">
+      <DependentUpon>Frm_MessageConfirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_NewOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_NewOrder.Designer.cs">
+      <DependentUpon>Frm_NewOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_OrderArchive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_OrderArchive.Designer.cs">
+      <DependentUpon>Frm_OrderArchive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_OrderCPEManag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_OrderCPEManag.Designer.cs">
+      <DependentUpon>Frm_OrderCPEManag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_OrderDone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_OrderDone.Designer.cs">
+      <DependentUpon>Frm_OrderDone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_OrderView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_OrderView.Designer.cs">
+      <DependentUpon>Frm_OrderView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_OrderViewCPE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_OrderViewCPE.Designer.cs">
+      <DependentUpon>Frm_OrderViewCPE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_QuteView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_QuteView.Designer.cs">
+      <DependentUpon>Frm_QuteView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\FRM_SignIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\FRM_SignIN.Designer.cs">
+      <DependentUpon>FRM_SignIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL\Orders.cs" />
+    <Compile Include="DAL\DataAccessLayer.cs" />
+    <Compile Include="PL\Frm_Update_Col_Cat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_Update_Col_Cat.Designer.cs">
+      <DependentUpon>Frm_Update_Col_Cat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_Update_Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_Update_Order.Designer.cs">
+      <DependentUpon>Frm_Update_Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Frm_ViewAllOrdersNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Frm_ViewAllOrdersNew.Designer.cs">
+      <DependentUpon>Frm_ViewAllOrdersNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="PL\Frm-ProductionForm.resx">
+      <DependentUpon>Frm-ProductionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_AddNewDoc.resx">
+      <DependentUpon>Frm_AddNewDoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_Category.resx">
+      <DependentUpon>Frm_Category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_CatManagement.resx">
+      <DependentUpon>Frm_CatManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_Collection.resx">
+      <DependentUpon>Frm_Collection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_ConfirmDept.resx">
+      <DependentUpon>Frm_ConfirmDept.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_DisplayAllDoc.resx">
+      <DependentUpon>Frm_DisplayAllDoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_DocManagement.resx">
+      <DependentUpon>Frm_DocManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_ImgDoc.resx">
+      <DependentUpon>Frm_ImgDoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_ImgOrder.resx">
+      <DependentUpon>Frm_ImgOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_ImgZoom.resx">
+      <DependentUpon>Frm_ImgZoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_Main.resx">
+      <DependentUpon>Frm_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_ManagDept.resx">
+      <DependentUpon>Frm_ManagDept.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_MessageConfirm.resx">
+      <DependentUpon>Frm_MessageConfirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_NewOrder.resx">
+      <DependentUpon>Frm_NewOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_OrderArchive.resx">
+      <DependentUpon>Frm_OrderArchive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_OrderCPEManag.resx">
+      <DependentUpon>Frm_OrderCPEManag.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_OrderDone.resx">
+      <DependentUpon>Frm_OrderDone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_OrderView.resx">
+      <DependentUpon>Frm_OrderView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_OrderViewCPE.resx">
+      <DependentUpon>Frm_OrderViewCPE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_QuteView.resx">
+      <DependentUpon>Frm_QuteView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\FRM_SignIN.resx">
+      <DependentUpon>FRM_SignIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_Update_Col_Cat.resx">
+      <DependentUpon>Frm_Update_Col_Cat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_Update_Order.resx">
+      <DependentUpon>Frm_Update_Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Frm_ViewAllOrdersNew.resx">
+      <DependentUpon>Frm_ViewAllOrdersNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Columbus_OrderDataSet.xsc">
+      <DependentUpon>Columbus_OrderDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Columbus_OrderDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Columbus_OrderDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Columbus_OrderDataSet.xss">
+      <DependentUpon>Columbus_OrderDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Columbus_OrderDataSet1.xsc">
+      <DependentUpon>Columbus_OrderDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Columbus_OrderDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Columbus_OrderDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Columbus_OrderDataSet1.xss">
+      <DependentUpon>Columbus_OrderDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="odcNewColumbus_OrderDataSet2.xsc">
+      <DependentUpon>odcNewColumbus_OrderDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="odcNewColumbus_OrderDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>odcNewColumbus_OrderDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="odcNewColumbus_OrderDataSet2.xss">
+      <DependentUpon>odcNewColumbus_OrderDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="PDC_Columbus_OrderDataSet.xsc">
+      <DependentUpon>PDC_Columbus_OrderDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PDC_Columbus_OrderDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PDC_Columbus_OrderDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PDC_Columbus_OrderDataSet.xss">
+      <DependentUpon>PDC_Columbus_OrderDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="pdc_Columbus_OrderDataSet2.xsc">
+      <DependentUpon>pdc_Columbus_OrderDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="pdc_Columbus_OrderDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pdc_Columbus_OrderDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pdc_Columbus_OrderDataSet2.xss">
+      <DependentUpon>pdc_Columbus_OrderDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainImg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="OrderIcon.ico" />
+    <Content Include="order_custom_hou_icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
