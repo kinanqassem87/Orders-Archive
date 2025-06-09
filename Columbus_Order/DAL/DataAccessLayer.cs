@@ -11,8 +11,7 @@ namespace Columbus_Order.DAL
     class DataAccessLayer
     {
         public static string con = "Server= Admin; Database= Columbus_Order; Integrated Security=True;";
-       //public static string con = "Server= Admin; Database= Columbus_Order;User ID=sa ;Password=123;Pooling=false;";
-        //public static string con = @"Server =192.168.1.22\vd; Database= Columbus_Order;User ID=kinanQA;Password=Col@1Winner@2Harfouch?;Pooling=false;";
+       
         
         public static SqlConnection cn;
         //open the connection 
