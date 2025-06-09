@@ -10,9 +10,9 @@ namespace Columbus_Order.DAL
 {
     class DataAccessLayerA
     {
-        //public static string con = "Server= Admin; Database= CV_Archive;User ID=sa ;Password=123;Pooling=false;";
+        
          public static string con = "Server= Admin; Database= CV_Archive;Integrated Security=True;Pooling=false;";
-        //public static string con = @"Server =192.168.1.22\vd; Database= CV_Archive;User ID=kinanQA;Password=Col@1Winner@2Harfouch?;Pooling=false;";
+        
         
         public static SqlConnection cn;
         //open the connection 
